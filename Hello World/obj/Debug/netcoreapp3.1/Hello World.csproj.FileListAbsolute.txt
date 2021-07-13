@@ -1,0 +1,37 @@
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\appsettings.json
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\Hello World.Views.dll
+D:\REPOS\hello-world\Hello World\bin\Debug\netcoreapp3.1\Hello World.Views.pdb
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.AssemblyReference.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.MvcApplicationPartsAssemblyInfo.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.RazorAssemblyInfo.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.RazorAssemblyInfo.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\staticwebassets\Hello World.StaticWebAssets.Manifest.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\staticwebassets\Hello World.StaticWebAssets.xml
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello World.styles.css
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.TagHelpers.input.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.TagHelpers.output.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.RazorCoreGenerate.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.RazorTargetAssemblyInfo.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.RazorTargetAssemblyInfo.cs
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.Views.pdb
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
+D:\REPOS\hello-world\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CopyComplete
